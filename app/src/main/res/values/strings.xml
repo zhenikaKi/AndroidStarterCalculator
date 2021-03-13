@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Запуск калькулятора</string>
+
+    <string name="first_value">Первое число</string>
+    <string name="second_value">Второе число</string>
+    <string name="button_run">Запустить калькулятор</string>
+    <string name="calculator_no_found">Нет подходящего калькулятора</string>
+</resources>
